@@ -12,5 +12,3 @@ Discipline ： 自らを律する
 
 Empathy : 共感的である
 共感的であること。グロースハッカーはユーザーがプロダクトに対してどんな気持ちを抱いているかを感じ取り、次の施策に反映させて行かなければなりません
-
-- See more at: http://skillhub.jp/blogs/71#sthash.S7YfsM3z.dpuf
